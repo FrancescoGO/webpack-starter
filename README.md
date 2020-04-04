@@ -9,7 +9,7 @@ Recuerden reconstruir los módulos de Node
 npm install
 ```
 
-Y para construir el build, recuerden:
+Y para construir el dist, recuerden:
 ```
 npm run build
 ```
