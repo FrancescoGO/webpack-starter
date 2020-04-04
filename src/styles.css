@@ -1,0 +1,9 @@
+/*Este el estilo principal*/
+html, body{
+    background-color: gray;
+}
+
+#logoCabecera {
+    width: 500px;
+    height: 250px;
+}
